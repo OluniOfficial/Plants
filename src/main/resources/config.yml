@@ -1,0 +1,7 @@
+custom-model-data: 500
+
+items-list:
+  - IRON_AXE
+
+permission-enable: false
+no-access-message: "&c[✘ | Plants] → You dont have access to this action!"

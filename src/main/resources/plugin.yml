@@ -1,0 +1,7 @@
+name: Plants
+version: '1.1'
+main: oluni.official.minecraft.plants.Plants
+api-version: '1.21'
+author: Oluni_Official
+commands:
+  plants:
