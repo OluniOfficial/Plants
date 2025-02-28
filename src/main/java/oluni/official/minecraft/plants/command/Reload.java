@@ -18,14 +18,13 @@ import java.util.List;
 import java.util.logging.Level;
 
 public class Reload implements CommandExecutor, TabCompleter {
-    private Plants plants;
+    private final Plants plants;
     public Reload(Plants plants) {
         this.plants = plants;
     }
     @Override
     public boolean onCommand(@NotNull CommandSender sender, @NotNull Command command, @NotNull String label, @NotNull String @NotNull [] args) {
-        if (sender instanceof Player) {
-            Player p = (Player) sender;
+        if (sender instanceof Player p) {
             if (p.hasPermission("plants.reload")) {
                 if (args.length == 1 && args[0].equalsIgnoreCase("reload")) {
                     ConfigManager.reloadConfig(plants);
