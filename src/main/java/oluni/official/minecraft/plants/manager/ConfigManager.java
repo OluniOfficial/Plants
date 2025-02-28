@@ -25,6 +25,6 @@ public class ConfigManager {
         return cfg.getBoolean("permission-enable", false);
     }
     public static String getAccessMessage() {
-        return cfg.getString("no-access-message", "&aYou dont have access to this action!");
+        return cfg.getString("no-access-message", "&c[✘ | Plants] → You dont have access to this action!");
     }
 }
