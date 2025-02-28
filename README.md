@@ -41,18 +41,8 @@ no-access-message: "&aYou dont have access to this action!"
 | plants.reload | For /plants reload command. |
 | plants.interact | Responsible for whether the player can harvest crops by right-clicking. (Only if `permission-enable` in the config is true) |
 
-### ❓ How does the plugin work?
+### 🗂️ Versions
 
-Below you can see an example of how the plugin works with the default config.
-
-#### A simple right-click on a crop.
-
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZ3d2Q1cjg3Z3QzNmdxY3lpYW5kMHExa2s4bDl0bGc1NTNvMGE2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4QkpZTY7W1JF1Wi7v/giphy.gif)
-
-#### With a special item (WITHOUT CUSTOMMODELDATA).
-
-![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZ3d2Q1cjg3Z3QzNmdxY3lpYW5kMHExa2s4bDl0bGc1NTNvMGE2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4QkpZTY7W1JF1Wi7v/giphy.gif)
-
-#### With a special item (CustomModelData).
-
-![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZtaHBzMHBlMzI4MzNpYTR3ZnM2ZnZvcHpidXF0YzFiYzVpN3hxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Me7yLLwUuVWNmSxROB/giphy.gif)
+| Plugin Version | Version | Download |
+|----------------|:---------:|----------------:|
+| 1.1 | 1.21.4 | [Download v1.1](https://github.com/OluniOfficial/Plants/releases/download/v1.1/Plants-1.1.jar) |
