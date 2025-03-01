@@ -46,3 +46,7 @@ no-access-message: "&aYou dont have access to this action!"
 | Plugin Version | Version | Download |
 |----------------|:---------:|----------------:|
 | 1.1 | 1.21.4 | [Download v1.1](https://github.com/OluniOfficial/Plants/releases/download/v1.1/Plants-1.1.jar) |
+
+### ❗ Bugs report
+
+If you see a bug, you can write about it in the Issue. Or, you can write to me in discord - `oluni_official`. Or, if you have an idea for updating a plugin, or any other plugin, you can also write to me.
